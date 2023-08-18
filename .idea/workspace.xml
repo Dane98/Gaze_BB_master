@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3d87d22-6e2a-4b4e-a446-97ce24b47cb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bb/bb.py" beforeDir="false" afterPath="$PROJECT_DIR$/bb/bb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/bb_cv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/bb/bb_cv2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/bb_to_vids_invis.py" beforeDir="false" afterPath="$PROJECT_DIR$/bb/bb_to_vids_invis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/invisible_bb_2020/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/invisible_bb_l2cs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/visible_bb_2020/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bb/visible_bb_l2cs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual_annotation/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/manual_annotation/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual_annotation/plotdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/manual_annotation/plotdata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual_annotation/preprocess.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2QHiv77rDkAbwbccFr6vzp1GK6E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/linlincheng/gaze&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bb" />
+      <recent name="$PROJECT_DIR$/manual_annotation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bb" />
+      <recent name="$PROJECT_DIR$/manual_annotation" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3d87d22-6e2a-4b4e-a446-97ce24b47cb4" name="Changes" comment="" />
+      <created>1685017135241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685017135241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/manual_annotation/IRA_fleiss.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
