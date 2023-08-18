@@ -1,0 +1,100 @@
+Visible Cases: 
+De Hoeven (number of children = 11)
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33001_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33002_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33003_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33004_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33005_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33006_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33007_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33008_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33010_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33011_sessie1
+De Hoeven/ Opnames/ Sessie (1)/Proefpersoon_33013_sessie1
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33001_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33002_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33003_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33004_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33005_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33006_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33007_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33008_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33010_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33011_sessie2
+De Hoeven/ Opnames/ Sessie (2)/Proefpersoon_33013_sessie2
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33001_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33002_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33003_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33004_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33005_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33006_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33007_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33008_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33010_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33011_sessie3
+De Hoeven/ Opnames/ Sessie (3)/Proefpersoon_33013_sessie3
+
+Kersenboom (number of children = 4)
+Kersenboom/ Opnames/ Sessie (1)/Proefpersoon22016_Sessie1
+Kersenboom/ Opnames/ Sessie (1)/Proefpersoon22017_Sessie1
+Kersenboom/ Opnames/ Sessie (1)/Proefpersoon22018_Sessie1
+Kersenboom/ Opnames/ Sessie (1)/Proefpersoon22030_Sessie1
+Kersenboom/ Opnames/ Sessie (2)/Proefpersoon22016_Sessie2
+Kersenboom/ Opnames/ Sessie (2)/Proefpersoon22017_Sessie2
+Kersenboom/ Opnames/ Sessie (2)/Proefpersoon22018_Sessie2
+Kersenboom/ Opnames/ Sessie (2)/Proefpersoon22030_Sessie2_Poging2
+Kersenboom/ Opnames/ Sessie (3)/Proefpersoon22016_Sessie3
+Kersenboom/ Opnames/ Sessie (3)/Proefpersoon22017_Sessie3
+Kersenboom/ Opnames/ Sessie (3)/Proefpersoon22018_Sessie3
+Kersenboom/ Opnames/ Sessie (3)/Proefpersoon22030_Sessie3
+
+
+Invisible Cases: 
+Grote Beer (number of children = 13)
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51007_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51009_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51010_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51011_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51012_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51013_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51014_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51015_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51016_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51017_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51019_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51020_sessie1
+Grote Beer/ Opnames/ Sessie 1/Proefpersoon_51021_sessie1
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51007_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51009_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51010_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51011_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51012_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51013_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51014_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51015_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51016_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51017_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51019_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51020_sessie2
+Grote Beer/ Opnames/ Sessie 2/Proefpersoon_51021_sessie2
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51007_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51009_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51010_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51011_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51012_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51013_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51014_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51015_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51016_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51017_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51019_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51020_sessie3
+Grote Beer/ Opnames/ Sessie 3/Proefpersoon_51021_sessie3
+
+Noorderbreedte (number of children = 2)
+Noorderbreedte/ Opnames/ Sessie 1/Proefpersoon_11009_sessie1
+Noorderbreedte/ Opnames/ Sessie 1/Proefpersoon_11029_sessie1
+Noorderbreedte/ Opnames/ Sessie 2/Proefpersoon_11009_sessie2
+Noorderbreedte/ Opnames/ Sessie 2/Proefpersoon_11029_sessie2
+Noorderbreedte/ Opnames/ Sessie 3/Proefpersoon_11009_sessie3
+Noorderbreedte/ Opnames/ Sessie 3/Proefpersoon_11029_sessie3
